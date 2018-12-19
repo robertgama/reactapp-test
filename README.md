@@ -3,10 +3,10 @@
 
 ## ToDo List
 - [x] Project Mockup
-- [ ] MVP Version
-    [x] Client Side
-    [x] Backend 
-    [] Database schema
+- [ ] MVP Version <br>
+    [x] Client Side<br>
+    [.] Backend <br>
+    [ ] Database schema.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
