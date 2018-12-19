@@ -1,12 +1,12 @@
 # Reactapp-test
-[![Status](https://api.travis-ci.org/redux-utilities/flux-standard-action.svg?branch=master)]
+[Status](https://api.travis-ci.org/redux-utilities/flux-standard-action.svg?branch=master)
 
-##ToDo List
+## ToDo List
 - [x] Project Mockup
 - [ ] MVP Version
     [x] Client Side
     [x] Backend 
-    [ ] Database schema
+    [] Database schema
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
