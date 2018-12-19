@@ -1,9 +1,9 @@
 # Reactapp-test
-[![Status](https://api.travis-ci.org/redux-utilities/flux-standard-action.svg?branch=master)
+[![Status](https://api.travis-ci.org/redux-utilities/flux-standard-action.svg?branch=master)]
 
 ##ToDo List
 - [x] Project Mockup
-- [/] MVP Version
+- [ ] MVP Version
     [x] Client Side
     [x] Backend 
     [ ] Database schema
